@@ -2,6 +2,16 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=F8D847&center=true&vCenter=true&width=650&lines=Software+Engineer+%C2%B7+DevOps+%C2%B7+AI%2FML;Final-year+B.Tech+IT+(AI+Honours);Building+things+that+ship." alt="Typing SVG" />
 
+<br/><br/>
+
+<!-- Social / profile badges -->
+<a href="https://www.linkedin.com/in/hasya-abburi-bb7853257/">
+  <img src="https://img.shields.io/badge/LinkedIn-141321?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
+</a>
+<a href="mailto:hasyasabburi@gmail.com">
+  <img src="https://img.shields.io/badge/Email-141321?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
+</a>
+
 </div>
 
 <br/>
@@ -20,14 +30,6 @@ Open to Java / full-stack developer roles where I can learn fast and build thing
 - 🔭 **Currently building:** full-stack projects that combine clean UI with real AI/ML pipelines and deploying it
 - 🌱 **Currently learning:** DevOps practices — CI/CD pipelines, container orchestration, and cloud infrastructure
 - ⚡ **Fun fact:** I once let a model train overnight only to find out I'd forgotten to shuffle the dataset.
-
-<!-- Social / profile badges -->
-<a href="https://www.linkedin.com/in/hasya-abburi-bb7853257/">
-  <img src="https://img.shields.io/badge/LinkedIn-141321?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
-</a>
-<a href="mailto:hasyasabburi@gmail.com">
-  <img src="https://img.shields.io/badge/Email-141321?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
-</a>
 
 </td>
 <td width="35%" align="center">
@@ -69,8 +71,20 @@ Open to Java / full-stack developer roles where I can learn fast and build thing
 </td>
 <td width="75%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ayoitshasya&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F8D847&icon_color=F8D847&text_color=A9FEF7" width="49%" alt="ayoitshasya's GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoitshasya&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F8D847&text_color=A9FEF7" width="49%" alt="Top languages" />
+<!--
+  github-readme-stats.vercel.app (the original public demo instance) currently
+  returns HTTP 503 DEPLOYMENT_PAUSED for every request — Vercel paused it
+  platform-wide, this isn't specific to this username or query string. Verified
+  live via curl on 2026-09-16. Pointing at github-stats-extended.vercel.app
+  instead: it's a maintained drop-in mirror with an identical API (same
+  query params), and a live curl check confirms it returns real 200 SVG
+  responses with this account's actual stats. If it ever goes down too, the
+  most durable fix is deploying your own instance from
+  https://github.com/anuraghazra/github-readme-stats (free on Vercel with a
+  GitHub PAT) and swapping the domain below for your own.
+-->
+<img src="https://github-stats-extended.vercel.app/api?username=ayoitshasya&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F8D847&icon_color=F8D847&text_color=A9FEF7" width="49%" alt="ayoitshasya's GitHub stats" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ayoitshasya&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F8D847&text_color=A9FEF7" width="49%" alt="Top languages" />
 
 </td>
 </tr>
