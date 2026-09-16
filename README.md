@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.jpg" height="50" alt="banner" />
+<img src="assets/banner.jpg" height="500" alt="banner" />
 &nbsp;&nbsp;
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=F8D847&center=true&vCenter=true&width=650&lines=Software+Engineer+%C2%B7+DevOps+%C2%B7+AI%2FML;Final-year+B.Tech+IT+(AI+Honours);Building+things+that+ship." alt="Typing SVG" />
 &nbsp;&nbsp;
