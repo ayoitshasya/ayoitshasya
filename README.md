@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="assets/banner.jpg" width="100%" alt="banner" />
-
-<br/>
-
+<img src="assets/banner.jpg" height="50" alt="banner" />
+&nbsp;&nbsp;
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=F8D847&center=true&vCenter=true&width=650&lines=Software+Engineer+%C2%B7+DevOps+%C2%B7+AI%2FML;Final-year+B.Tech+IT+(AI+Honours);Building+things+that+ship." alt="Typing SVG" />
+&nbsp;&nbsp;
+<img src="assets/hell.gif" height="50" alt="hell gif" />
 
-<br/>
+<br/><br/>
 
 <!-- Social / profile badges -->
 <a href="https://www.linkedin.com/in/hasya-abburi-bb7853257/">
@@ -79,8 +79,13 @@ Open to Java / full-stack developer roles where I can learn fast and build thing
   "output" branch on every run (daily via cron + on every push to main). This points
   directly at that branch's raw file instead of a manually-committed asset, so it
   always reflects the latest contribution graph with no manual re-upload needed.
+  Using the github-dark palette SVG here since the old .gif was rendered with a
+  custom orange-snake/yellow-dots palette that clashed with the rest of the theme.
+  Once this workflow re-runs (it now generates the .gif with the same github-dark
+  palette), you can swap this back to the .gif for a smoother animation:
+  https://raw.githubusercontent.com/ayoitshasya/ayoitshasya/output/github-contribution-grid-snake.gif
 -->
-<img src="https://raw.githubusercontent.com/ayoitshasya/ayoitshasya/output/github-contribution-grid-snake.gif" width="100%" alt="Contribution snake animation" />
+<img src="https://raw.githubusercontent.com/ayoitshasya/ayoitshasya/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake animation" />
 
 </div>
 

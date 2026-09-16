@@ -25,7 +25,7 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake.gif?color_snake=orange&color_dots=#F8D847,#F8D847,#F8D847,#F8D847,#F8D847
+            dist/github-contribution-grid-snake.gif?palette=github-dark
 
       # Pushes the generated files to a dedicated "output" branch.
       # Once this has run once, reference the raw URL from that branch in README.md,
