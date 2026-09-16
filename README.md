@@ -1,7 +1,6 @@
 <div align="center">
 
-<!-- Custom banner — drop your own image at assets/banner.png (recommended size ~1500x400) -->
-<img src="assets/banner.png" width="100%" alt="banner" />
+<img src="assets/banner.jpg" width="100%" alt="banner" />
 
 <br/>
 
